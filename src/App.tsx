@@ -17,6 +17,12 @@ function App() {
         <p className="text-xs text-purple-500"> 
           Join our community and be the first to know about the latest news,offers,and exciting content.
         </p>
+        <h1 className="text-center text-gray-700 p-2 rounded-lg outline outline-2 outline-gray-300 w-full">
+          Your email address
+        </h1>
+        <button className="w-full h-10 text-lg bg-red-800 rounded-lg text-white font-bold cursor-pointer hover:bg-green-400">
+          Claim Offer
+        </button>
       </div>
 
       {/* SECOND HALF */}

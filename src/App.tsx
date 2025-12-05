@@ -10,8 +10,8 @@ function App() {
         <p className="text-xl italic">Your travel destiny, written in the stars</p>
 
       {/* FIRST HALF */}      
-      <div className="flex flex-col justify-center items-center gap-1 mt-10">
-        <h1 className="text-xl font-bold text-purple-400">
+      <div className="flex flex-col justify-center items-center gap-1 mt-6">
+        <h1 className="text-4xl font-bold text-purple-400">
           Get 40% OFF on your first trip
         </h1>
         <p className="text-xs text-purple-500"> 
@@ -20,7 +20,7 @@ function App() {
       </div>
 
       {/* SECOND HALF */}
-      <div className="flex flex-col justify-center items-center gap-1 mt-10">
+      <div className="flex flex-col justify-center items-center gap-1 mt-6">
         <h1 className="text-4xl font-bold text-blue-900">
           Book a trip with us
         </h1>

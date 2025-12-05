@@ -1,15 +1,15 @@
-import './App.css'
+
 
 function App() {
 
   return (
     <>
       <div>
-        
+        <h1 className="text-3xl font-bold">
+          Get 40% OFF on your
+        </h1>
       </div>
-      <p className="read-the-docs">
-  
-      </p>
+      
     </>
   )
 }
